@@ -6,13 +6,13 @@ const squirtle = new Pokemon("squirtle")
 const charmander = new Pokemon("charmander")
 
 pikachu.sayHello()
-pikachu.sayMessage("Heey!")
+pikachu.sayMessage("Heey!") 
 
 bulbasaur.sayHello()
 bulbasaur.sayMessage("Heey!")
 
 charmander.sayHello()
-charmander.sayMessage("Heey!")
+charmander.sayMessage("Heey!") 
 
 squirtle.sayHello()  
 squirtle.sayMessage("Heey!") 
